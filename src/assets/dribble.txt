@@ -1,0 +1,13 @@
+client_id:364c62814666892f60434ddf312c721c45c8df3a4c5add3fcf0a478dae0c7acb
+client_secret:db1c4d312412e65fdcd5338142f16cf2e988abb0885361d605cd971c27837fdc
+code:cd39362c804c33ca652265fe30e8cab05aa38be3574ff591e1b624d3fba7eb5b
+
+
+
+
+{
+    "access_token": "fc007ce9f45a3f9f7f2722aeb3bcc3ce53c3c32f8eaaddb01069a65526825d4b",
+    "token_type": "Bearer",
+    "scope": "public",
+    "created_at": 1696000048
+}
